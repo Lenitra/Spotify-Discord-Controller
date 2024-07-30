@@ -1,0 +1,15 @@
+{
+    "spotify_client_id": "xxx",
+    "spotify_client_secret": "xxx",
+    "discord_token": "xxx",
+    "discord_users": {
+        "roles": [
+            # Id of the role you want to give access to the bot
+            1236990276568879155, # DJ🎵
+        ],
+        "users": [
+            # Id of the user you want to give access to the bot
+            304868399492759553, # TauMah
+        ]
+    }
+}
